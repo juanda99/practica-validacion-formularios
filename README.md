@@ -62,7 +62,7 @@ Debemos hacer las siguientes validaciones en cliente antes de hacer el envío de
 
 **Ayuda**:
 - Para la validación te puedes ayudar de la práctica solucionada de validación que os proporcioné.
-- [Capítulo I y II del libro Pro git](http://git-scm.com/book/es/v1), aunque tan solo serán necesarios 4 o 5 comandos, viene bien, para tener claro lo que hacemos.
+- [Capítulo I y II del libro Pro git](http://git-scm.com/book/es/v1), para entender el control de versiones git (aunque tan solo serán necesarios 4 o 5 comandos, viene bien para entender lo que hacemos).
 - [Artículo sobre uso de Yeoman](http://www.formandome.es/varios/yeoman-automatizar-el-flujo-de-trabajo-en-desarrollo-web/), donde además utilizo jQuery Validate.
 
 
