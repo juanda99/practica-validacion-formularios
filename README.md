@@ -9,7 +9,7 @@ La empresa nos solicita un un formulario de contacto en el que recogeremos no s�
 - Teléfono*
 - email* 	
 - repetir email 		
-- ¿Cómo nos has conocido? (Prefiero no contestar, Publicidad, Profesionales del 	sector, Internet, A través de un amigo o conocido )
+- ¿Cómo nos has conocido? (Prefiero no contestar, Publicidad, Profesionales del sector, Internet, A través de un amigo o conocido )
 
 **Datos de facturación:**
 - Demandante (Particular o Empresa)*
@@ -44,9 +44,9 @@ Debemos hacer las siguientes validaciones en cliente antes de hacer el envío de
 - Una vez pulsemos enviar en el formulario se mostrará un aviso al usuario de que se va a dar de alta y que se le pasará la primera cuota de 50€, 140€ o 550€ según corresponda (forma de pago). El usuario podrá cancelar la operación.
 
 **Datos de test:** 
-El usuario con email juandacorreo@gmail.com y DNI 25456737S deberá estar dado de alta en la base de datos. 
-El CIF que probaré es el siguiente: A28017895 (El Corte Inglés).
-El código IBAN: ES91 2085 0166 69 0330150871
+- El usuario con email juandacorreo@gmail.com y DNI 25456737S deberá estar dado de alta en la base de datos. 
+- El CIF que probaré es el siguiente: A28017895 (El Corte Inglés).
+- El código IBAN: ES91 2085 0166 69 0330150871
 
 	
 **Requerimientos adicionales:**
@@ -58,7 +58,7 @@ El código IBAN: ES91 2085 0166 69 0330150871
 
 - La práctica se debe colgar en github y debe partir de un fork de mi repositorio, para su seguimiento por mi parte. De cualquier manera en vuestro formulario deberá haber un enlace visible a vuestro repositorio en GitHub. Serán necesarios **al menos 5 commits en 3 días diferentes**.
 
-- El código html, css y js deberá ir en sus propios ficheros. Se debe disponer de **dos versiones del código, una de desarrollo y otra de producción** que tendrá todos los ficheros minified y concatenados, de modo que haya un único js para todo el código que no sea nuestro (jQuery, Validate…), un único css para todo el código que no sea nuestro (Bootstrap por ej.), y un único css o js para el código que hayamos hecho nosotros. Para realizar todo este proceso, se recomienda encarecidamente el uso de Yeoman. Para facilitar y “forzar” a ello, ya os proporciono la estructura de la aplicación con Yeoman (yo webapp). En infenlaces.com se colgará exclusivamente el código de producción de modo que pueda llegar al mismo navegando a partir de la [lista de usuarios](http://www.infenlaces.com).
+- El código html, css y js deberá ir en sus propios ficheros. Se debe disponer de **dos versiones del código, una de desarrollo y otra de producción** que tendrá todos los ficheros minified y concatenados, de modo que haya un único js para todo el código que no sea nuestro (jQuery, Validate…), un único css para todo el código que no sea nuestro (Bootstrap por ej.), y un único css o js para el código que hayamos hecho nosotros. Para realizar todo este proceso  y por temas de productividad y eficiencia **se recomienda encarecidamente el uso de Yeoman**. Para facilitar y "forzar" a ello, ya os proporciono la estructura de la aplicación con Yeoman (yo webapp). En infenlaces.com se colgará exclusivamente el código de producción de modo que pueda llegar al mismo navegando a partir de la [lista de usuarios](http://www.infenlaces.com).
 
 **Ayuda**:
 - Para la validación te puedes ayudar de la práctica solucionada de validación que os proporcioné.
